@@ -14,7 +14,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void accionClickMe(View view){
-        Toast.makeText(this, "Diego Click", Toast.LENGTH_SHORT).show();
+        Toast.makeText(this, "Diegasdasdo Click", Toast.LENGTH_SHORT).show();
         Toast.makeText(this, "xXxASESINOxXx", Toast.LENGTH_SHORT).show();
     }
 
