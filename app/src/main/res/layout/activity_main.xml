@@ -6,21 +6,29 @@
     android:layout_height="match_parent"
     tools:context=".MainActivity"
     android:orientation="vertical"
-    android:background="#22f10b">
+    android:background="#ffffff">
+
+
+   <ImageView
+       android:layout_width="match_parent"
+       android:layout_height="200dp"
+       android:src="@drawable/fry"
+       android:scaleType="centerCrop"/>
 
 
    <Button
        android:layout_width="wrap_content"
        android:layout_height="wrap_content"
        android:text="NO HAGA CLICK AQUI!"
-       android:background="#a87a85c2"
+       android:background="#a8bf1839"
        android:onClick="accionClickMe"
-       android:textColor="#000000"
+       android:textColor="#ce3535"
        android:textSize="25dp"
        />
    <Button
        android:layout_width="wrap_content"
        android:layout_height="wrap_content"
        android:text="OTRO BOTON"
-       android:textColor="#f50404"/>
+       android:textColor="#2f9b8c"/>
+
 </LinearLayout>
