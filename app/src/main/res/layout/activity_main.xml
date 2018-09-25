@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     tools:context=".MainActivity"
     android:orientation="vertical"
-    android:background="#ffffff">
+    android:background="#020202">
 
 
    <ImageView
@@ -19,7 +19,7 @@
    <Button
        android:layout_width="wrap_content"
        android:layout_height="wrap_content"
-       android:text="NO HAGA CLICK AQUI!"
+       android:text="HACE CLICK AQUI"
        android:background="#a8bf1839"
        android:onClick="accionClickMe"
        android:textColor="#ce3535"
