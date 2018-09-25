@@ -32,4 +32,9 @@
        android:text="OTRO BOTON"
        android:textColor="#2f9b8c"/>
 
+   <Button
+       android:layout_width="wrap_content"
+       android:layout_height="wrap_content"
+       android:text="¿Qué hace este botón?" />
+
 </LinearLayout>
